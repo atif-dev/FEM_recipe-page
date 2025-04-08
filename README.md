@@ -26,14 +26,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshots
 
-![PC View]()
-![Mobile view]()
+![PC View](https://github.com/atif-dev/FEM_recipe-page/blob/master/screenshots/Screen(1440%20by%20900).png?raw=true)
+![Mobile view](https://github.com/atif-dev/FEM_recipe-page/blob/master/screenshots/iPhone%2015%20Pro%20Max.png?raw=true)
 
 ### Links
 
 - Frontend Mentor solution url: 
-- GitHub repo : 
-- Live Site URL:
+- GitHub repo : https://github.com/atif-dev/FEM_recipe-page
+- Live Site URL: https://atif-dev.github.io/FEM_recipe-page/
 
 ## My process
 
