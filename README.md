@@ -31,7 +31,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Frontend Mentor solution url: 
+- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/responsive-recipe-page-hrQc_vGqfu 
 - GitHub repo : https://github.com/atif-dev/FEM_recipe-page
 - Live Site URL: https://atif-dev.github.io/FEM_recipe-page/
 
